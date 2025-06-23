@@ -3,6 +3,8 @@ Downgraded version due to tensorflow capabilites
 
 To use this project Checkout First 
 # requirements.txt 
+Else 
+* Added Automation File of Docker,Just clone and access the your server port 0.0.0.0:8000 using any cloud platform and you can use without REQUIREMENTS !
 
 
 
