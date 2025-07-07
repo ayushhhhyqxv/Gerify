@@ -1,3 +1,7 @@
+Added Automation File, Just clone and access the your server port 0.0.0.0:8000 using any cloud platform and you can use without REQUIREMENTS !
+
+ELSE
+
 Verify and install all dependencies, I have used Python 3.11.9 that is 
 Downgraded version due to tensorflow capabilites
 
