@@ -1,4 +1,4 @@
-Added Automation File, Just clone and access the your server port 0.0.0.0:8000 using any cloud platform and you can use without REQUIREMENTS !
+Added Automation File, Just clone and access the your server port 0.0.0.0:5000 using any cloud platform and you can use without REQUIREMENTS !
 
 ELSE
 
@@ -8,7 +8,7 @@ Downgraded version due to tensorflow capabilites
 To use this project Checkout First Requirements !
 
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 
